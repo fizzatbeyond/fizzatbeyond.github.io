@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Filizzi Family</title>
-    <link>https://filizzi.family/posts/</link>
+    <link>http://filizzi.family/posts/</link>
     <description>Recent content in Posts on Filizzi Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 11:09:30 -0400</lastBuildDate>
     
-	<atom:link href="https://filizzi.family/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://filizzi.family/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Filizzi Family</title>
-      <link>https://filizzi.family/posts/background/</link>
+      <link>http://filizzi.family/posts/background/</link>
       <pubDate>Sun, 03 May 2020 11:09:30 -0400</pubDate>
       
-      <guid>https://filizzi.family/posts/background/</guid>
+      <guid>http://filizzi.family/posts/background/</guid>
       <description>Welcome to the Filizzi Family Blog
 Filizzi is a mis-spelled last name from the Tollo region of Italy. The best I can tell is that when my Great-Great Grandfather came to the US his last name was mis-spelled.</description>
     </item>

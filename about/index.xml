@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Filizzi Family</title>
-    <link>https://filizzi.family/about/</link>
+    <link>http://filizzi.family/about/</link>
     <description>Recent content in About on Filizzi Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 May 2020 16:53:58 -0400</lastBuildDate>
     
-	<atom:link href="https://filizzi.family/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://filizzi.family/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Me</title>
-      <link>https://filizzi.family/about/me/</link>
+      <link>http://filizzi.family/about/me/</link>
       <pubDate>Tue, 12 May 2020 16:53:58 -0400</pubDate>
       
-      <guid>https://filizzi.family/about/me/</guid>
+      <guid>http://filizzi.family/about/me/</guid>
       <description>Who Am I? I am a computer programmer by training who is currently working as a project manager for a range of small to large applications, most of which are web based.
 I am also a gaming enthusist. Most peole hear that and think video games, and while I do enjoy some video games I am more interested in tabletop games. In addition to just playing them I also volunteer my time with an organization who promotes the use of tabletop gaming for educational and theraputic purposes, The Bodhana Group.</description>
     </item>
     
     <item>
       <title>Filizzi Family</title>
-      <link>https://filizzi.family/about/family/</link>
+      <link>http://filizzi.family/about/family/</link>
       <pubDate>Sun, 03 May 2020 11:09:30 -0400</pubDate>
       
-      <guid>https://filizzi.family/about/family/</guid>
+      <guid>http://filizzi.family/about/family/</guid>
       <description>Welcome to the Filizzi Family.
 Filizzi is a mis-spelled last name from the Tollo region of Italy. The best I can tell is that when my Great-Great Grandfather came to the US his last name was mis-spelled.
 As I do more genology research I will update this page with more detailed information.</description>
