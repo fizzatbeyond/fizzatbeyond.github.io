@@ -6,7 +6,17 @@
     <description>Recent content on Filizzi Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2020 16:53:58 -0400</lastBuildDate><atom:link href="http://www.filizzi.family/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Dec 2020 11:36:54 -0500</lastBuildDate><atom:link href="http://www.filizzi.family/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects I&#39;m playing with</title>
+      <link>http://www.filizzi.family/posts/20201214_projects/</link>
+      <pubDate>Mon, 14 Dec 2020 11:36:54 -0500</pubDate>
+      
+      <guid>http://www.filizzi.family/posts/20201214_projects/</guid>
+      <description>I&amp;rsquo;ve decided I&amp;rsquo;m going to detail out what I&amp;rsquo;m playing with these days. Not just technology but things in general.
+Programming Ruby I&amp;rsquo;m re-teaching myself Ruby. But not for Rails. I find the language very elegant, and wish I had kept up to date with the development of the language but life happens. Now I&amp;rsquo;m back to a place where I feel comfortable re-teaching myself some of the programming languages that I used to use.</description>
+    </item>
+    
     <item>
       <title>Me</title>
       <link>http://www.filizzi.family/about/me/</link>
