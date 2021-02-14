@@ -6,7 +6,20 @@
     <description>Recent content on Filizzi Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Dec 2020 11:36:54 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Feb 2021 10:06:46 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thoughts About the Linux Desktop</title>
+      <link>/posts/20210214-linuxdesktop/</link>
+      <pubDate>Sun, 14 Feb 2021 10:06:46 -0500</pubDate>
+      
+      <guid>/posts/20210214-linuxdesktop/</guid>
+      <description>Linux Desktops Over the years I have used a wide variety of Linux desktops. Some for a (very) short period of time, others for years at a time. I&amp;rsquo;ve come to classify them into two categories. The first one would be ones that replicate the user experience of another operating system such as Microsoft Windows or Mac OS. The other classification would be ones that are willing to try something new.</description>
+    </item>
+    
     <item>
       <title>Projects I&#39;m playing with</title>
       <link>/posts/20201214_projects/</link>
