@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filizzi Family</title>
-    <link>/</link>
+    <link>https://www.filizzi.family/</link>
     <description>Recent content on Filizzi Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Feb 2021 10:06:46 -0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.filizzi.family/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thoughts About the Linux Desktop</title>
-      <link>/posts/20210214-linuxdesktop/</link>
+      <link>https://www.filizzi.family/posts/20210214-linuxdesktop/</link>
       <pubDate>Sun, 14 Feb 2021 10:06:46 -0500</pubDate>
       
-      <guid>/posts/20210214-linuxdesktop/</guid>
+      <guid>https://www.filizzi.family/posts/20210214-linuxdesktop/</guid>
       <description>Linux Desktops Over the years I have used a wide variety of Linux desktops. Some for a (very) short period of time, others for years at a time. I&amp;rsquo;ve come to classify them into two categories. The first one would be ones that replicate the user experience of another operating system such as Microsoft Windows or Mac OS. The other classification would be ones that are willing to try something new.</description>
     </item>
     
     <item>
       <title>Projects I&#39;m playing with</title>
-      <link>/posts/20201214_projects/</link>
+      <link>https://www.filizzi.family/posts/20201214_projects/</link>
       <pubDate>Mon, 14 Dec 2020 11:36:54 -0500</pubDate>
       
-      <guid>/posts/20201214_projects/</guid>
+      <guid>https://www.filizzi.family/posts/20201214_projects/</guid>
       <description>I&amp;rsquo;ve decided I&amp;rsquo;m going to detail out what I&amp;rsquo;m playing with these days. Not just technology but things in general.
 Programming Ruby I&amp;rsquo;m re-teaching myself Ruby. But not for Rails. I find the language very elegant, and wish I had kept up to date with the development of the language but life happens. Now I&amp;rsquo;m back to a place where I feel comfortable re-teaching myself some of the programming languages that I used to use.</description>
     </item>
     
     <item>
       <title>Me</title>
-      <link>/about/me/</link>
+      <link>https://www.filizzi.family/about/me/</link>
       <pubDate>Tue, 12 May 2020 16:53:58 -0400</pubDate>
       
-      <guid>/about/me/</guid>
+      <guid>https://www.filizzi.family/about/me/</guid>
       <description>Who Am I? I am a computer programmer by training who is currently working as a project manager for a range of small to large applications, most of which are web based.
 I am also a gaming enthusist. Most peole hear that and think video games, and while I do enjoy some video games I am more interested in tabletop games. In addition to just playing them I also volunteer my time with an organization who promotes the use of tabletop gaming for educational and theraputic purposes, The Bodhana Group.</description>
     </item>
     
     <item>
       <title>Filizzi Family</title>
-      <link>/about/family/</link>
+      <link>https://www.filizzi.family/about/family/</link>
       <pubDate>Sun, 03 May 2020 11:09:30 -0400</pubDate>
       
-      <guid>/about/family/</guid>
+      <guid>https://www.filizzi.family/about/family/</guid>
       <description>Welcome to the Filizzi Family.
 Filizzi is a mis-spelled last name from the Tollo region of Italy. The best I can tell is that when my Great-Great Grandfather came to the US his last name was mis-spelled.
 As I do more genology research I will update this page with more detailed information.</description>
@@ -53,10 +53,10 @@ As I do more genology research I will update this page with more detailed inform
     
     <item>
       <title>Filizzi Family</title>
-      <link>/posts/background/</link>
+      <link>https://www.filizzi.family/posts/background/</link>
       <pubDate>Sun, 03 May 2020 11:09:30 -0400</pubDate>
       
-      <guid>/posts/background/</guid>
+      <guid>https://www.filizzi.family/posts/background/</guid>
       <description>Welcome to the Filizzi Family Blog
 Filizzi is a mis-spelled last name from the Tollo region of Italy. The best I can tell is that when my Great-Great Grandfather came to the US his last name was mis-spelled.</description>
     </item>

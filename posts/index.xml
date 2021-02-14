@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Filizzi Family</title>
-    <link>/posts/</link>
+    <link>https://www.filizzi.family/posts/</link>
     <description>Recent content in Posts on Filizzi Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Feb 2021 10:06:46 -0500</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.filizzi.family/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thoughts About the Linux Desktop</title>
-      <link>/posts/20210214-linuxdesktop/</link>
+      <link>https://www.filizzi.family/posts/20210214-linuxdesktop/</link>
       <pubDate>Sun, 14 Feb 2021 10:06:46 -0500</pubDate>
       
-      <guid>/posts/20210214-linuxdesktop/</guid>
+      <guid>https://www.filizzi.family/posts/20210214-linuxdesktop/</guid>
       <description>Linux Desktops Over the years I have used a wide variety of Linux desktops. Some for a (very) short period of time, others for years at a time. I&amp;rsquo;ve come to classify them into two categories. The first one would be ones that replicate the user experience of another operating system such as Microsoft Windows or Mac OS. The other classification would be ones that are willing to try something new.</description>
     </item>
     
     <item>
       <title>Projects I&#39;m playing with</title>
-      <link>/posts/20201214_projects/</link>
+      <link>https://www.filizzi.family/posts/20201214_projects/</link>
       <pubDate>Mon, 14 Dec 2020 11:36:54 -0500</pubDate>
       
-      <guid>/posts/20201214_projects/</guid>
+      <guid>https://www.filizzi.family/posts/20201214_projects/</guid>
       <description>I&amp;rsquo;ve decided I&amp;rsquo;m going to detail out what I&amp;rsquo;m playing with these days. Not just technology but things in general.
 Programming Ruby I&amp;rsquo;m re-teaching myself Ruby. But not for Rails. I find the language very elegant, and wish I had kept up to date with the development of the language but life happens. Now I&amp;rsquo;m back to a place where I feel comfortable re-teaching myself some of the programming languages that I used to use.</description>
     </item>
     
     <item>
       <title>Filizzi Family</title>
-      <link>/posts/background/</link>
+      <link>https://www.filizzi.family/posts/background/</link>
       <pubDate>Sun, 03 May 2020 11:09:30 -0400</pubDate>
       
-      <guid>/posts/background/</guid>
+      <guid>https://www.filizzi.family/posts/background/</guid>
       <description>Welcome to the Filizzi Family Blog
 Filizzi is a mis-spelled last name from the Tollo region of Italy. The best I can tell is that when my Great-Great Grandfather came to the US his last name was mis-spelled.</description>
     </item>
