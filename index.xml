@@ -6,10 +6,20 @@
     <description>Recent content on Filizzi Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2021 10:06:46 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 16 Feb 2021 11:22:00 -0500</lastBuildDate>
     
 	<atom:link href="https://www.filizzi.family/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pets</title>
+      <link>https://www.filizzi.family/posts/20210216-pets/</link>
+      <pubDate>Tue, 16 Feb 2021 11:22:00 -0500</pubDate>
+      
+      <guid>https://www.filizzi.family/posts/20210216-pets/</guid>
+      <description>Over the past few weeks, and over the next few weeks a lot of changes have happened (and will happen) to the animals in our home.
+Starting with the sad news, our older cat Maisy starting having litter box issues. After taking her to the vet we discovered advanced kidney disease. The vet first perscribed a medicine for that along with special food. This helped however she started vomitting all over the place, almost more than she was eating.</description>
+    </item>
     
     <item>
       <title>Thoughts About the Linux Desktop</title>
