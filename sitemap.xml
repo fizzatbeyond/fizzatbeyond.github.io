@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.filizzi.family/</loc>
-    <lastmod>2021-02-16T11:22:00-05:00</lastmod>
+    <loc>https://www.filizzi.family/posts/20210418-family/</loc>
+    <lastmod>2021-04-18T07:36:48-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.filizzi.family/posts/20210216-pets/</loc>
-    <lastmod>2021-02-16T11:22:00-05:00</lastmod>
+    <loc>https://www.filizzi.family/</loc>
+    <lastmod>2021-04-18T07:36:48-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.filizzi.family/posts/</loc>
+    <lastmod>2021-04-18T07:36:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.filizzi.family/posts/20210216-pets/</loc>
     <lastmod>2021-02-16T11:22:00-05:00</lastmod>
   </url>
   
