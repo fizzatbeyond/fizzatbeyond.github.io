@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.filizzi.family/posts/20230530-continuedhipsaga/</loc>
-    <lastmod>2023-05-30T09:41:31-04:00</lastmod>
-  </url><url>
     <loc>https://www.filizzi.family/</loc>
-    <lastmod>2023-05-30T09:41:31-04:00</lastmod>
+    <lastmod>2023-12-15T10:37:43-05:00</lastmod>
+  </url><url>
+    <loc>https://www.filizzi.family/posts/20231215-hip_biopsy/</loc>
+    <lastmod>2023-12-15T10:37:43-05:00</lastmod>
   </url><url>
     <loc>https://www.filizzi.family/posts/</loc>
+    <lastmod>2023-12-15T10:37:43-05:00</lastmod>
+  </url><url>
+    <loc>https://www.filizzi.family/posts/20230530-continuedhipsaga/</loc>
     <lastmod>2023-05-30T09:41:31-04:00</lastmod>
   </url><url>
     <loc>https://www.filizzi.family/posts/20230511-more_hip/</loc>

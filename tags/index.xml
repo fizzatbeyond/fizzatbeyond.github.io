@@ -5,6 +5,7 @@
     <link>https://www.filizzi.family/tags/</link>
     <description>Recent content in Tags on Filizzi Family</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.filizzi.family/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://www.filizzi.family/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
