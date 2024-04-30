@@ -1,6 +1,6 @@
 [
     {
-        "ref": "https://www.filizzi.family/posts/20231215-hip_biopsy/",
+        "ref": "http://localhost:1313/posts/20231215-hip_biopsy/",
         "title": "Hip Biopsy",
         "section": "posts",
         "tags": null,
@@ -9,7 +9,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20230530-continuedhipsaga/",
+        "ref": "http://localhost:1313/posts/20230530-continuedhipsaga/",
         "title": "Continued Hip Saga",
         "section": "posts",
         "tags": null,
@@ -18,7 +18,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20230511-more_hip/",
+        "ref": "http://localhost:1313/posts/20230511-more_hip/",
         "title": "More Hip",
         "section": "posts",
         "tags": null,
@@ -27,7 +27,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20230425-hip_followup/",
+        "ref": "http://localhost:1313/posts/20230425-hip_followup/",
         "title": "Hip Issue",
         "section": "posts",
         "tags": null,
@@ -36,7 +36,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20230327-project_update/",
+        "ref": "http://localhost:1313/posts/20230327-project_update/",
         "title": "Project Update",
         "section": "posts",
         "tags": null,
@@ -45,7 +45,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20230125-meditation/",
+        "ref": "http://localhost:1313/posts/20230125-meditation/",
         "title": "Meditation",
         "section": "posts",
         "tags": null,
@@ -54,7 +54,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20220916-krypto/",
+        "ref": "http://localhost:1313/posts/20220916-krypto/",
         "title": "Krypto",
         "section": "posts",
         "tags": null,
@@ -63,7 +63,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20220303-dad_updated/",
+        "ref": "http://localhost:1313/posts/20220303-dad_updated/",
         "title": "Dad Updated",
         "section": "posts",
         "tags": null,
@@ -72,7 +72,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20220222-dad/",
+        "ref": "http://localhost:1313/posts/20220222-dad/",
         "title": "Dad",
         "section": "posts",
         "tags": null,
@@ -81,7 +81,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20211129-stars/",
+        "ref": "http://localhost:1313/posts/20211129-stars/",
         "title": "Where did all the stars go",
         "section": "posts",
         "tags": null,
@@ -90,7 +90,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20211007-mom/",
+        "ref": "http://localhost:1313/posts/20211007-mom/",
         "title": "Mom",
         "section": "posts",
         "tags": null,
@@ -99,7 +99,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20210622-morefamily/",
+        "ref": "http://localhost:1313/posts/20210622-morefamily/",
         "title": "More Family stuff",
         "section": "posts",
         "tags": null,
@@ -108,7 +108,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20210418-family/",
+        "ref": "http://localhost:1313/posts/20210418-family/",
         "title": "Family",
         "section": "posts",
         "tags": null,
@@ -117,7 +117,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20210216-pets/",
+        "ref": "http://localhost:1313/posts/20210216-pets/",
         "title": "Pets",
         "section": "posts",
         "tags": null,
@@ -126,7 +126,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20210214-linuxdesktop/",
+        "ref": "http://localhost:1313/posts/20210214-linuxdesktop/",
         "title": "Thoughts About the Linux Desktop",
         "section": "posts",
         "tags": null,
@@ -135,7 +135,7 @@
     }
 ,
     {
-        "ref": "https://www.filizzi.family/posts/20201214-projects/",
+        "ref": "http://localhost:1313/posts/20201214-projects/",
         "title": "Projects I'm playing with",
         "section": "posts",
         "tags": null,
